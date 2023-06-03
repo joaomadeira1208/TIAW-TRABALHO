@@ -1,17 +1,17 @@
 # Nome do projeto
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+O projeto tem o objetivo de facilitar a gestão da vida financeira dos clientes.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* João Madeira Carneiro Braga de Freitas
+* João Lucas Curi
+* Emanuel Gandra
+* 
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Simone de Assis Alves da Silva
+* 
 
 ## Instruções de utilização
 
